@@ -1,0 +1,7 @@
+#Fri Feb 17 17:10:03 ICT 2017
+base.0=/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be96bcfd5718c983bf3ac5582009455e555eda8a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9d34752af8187e525c5270b80f73110d604b28c2/classes.dex
+base.1=/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9d34752af8187e525c5270b80f73110d604b28c2
+file.0=/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be96bcfd5718c983bf3ac5582009455e555eda8a/classes.dex
