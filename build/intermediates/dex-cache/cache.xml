@@ -3,12 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_7f7d339e5a6eb2c3f22c6efb8fec51876c9c183c/classes.dex" />
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_928f8fd90e91b8e789e17d9c05abc748890b3566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_aeb853571d78f294fa260308164914b88630d23a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -25,8 +34,35 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="01a67541d85c987bc026531903dd1c5666f9c1f8">
+        sha1="0e7f859ed9a6ae6cf23b9530262e79a9a7d1af24">
         <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_be96bcfd5718c983bf3ac5582009455e555eda8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_4fb6c0ef545ee9d170e7147d54f67babf0acd8fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5986f17d60353b7804f3bb1a061c3b09e89b1da4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b072186c0d2e7783a5bb665a486ee8cb2f2da48d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,12 +75,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jar="/Users/QUYLE/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_4517e46d3aaa2e120fab8d1e5c7da2d47260fb02/classes.dex" />
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_fcfffe743af981c4016dbeb7b334b5773b7cf48e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_5837709fd89e59ec2fdc363e3ab7f0a3d7ccb93f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_347ef3d4720381df71689fb01c71fdf529c63bb5/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,12 +120,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_1420856ca2662bb77f13783b40cb7f5bbe6a9a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="bf565f0836e287500b6db0cfcae09dd66fe04f11">
+        sha1="4bc0509da7aa8d81a464d7103f2406cb1cefdb7f">
         <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9d34752af8187e525c5270b80f73110d604b28c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_3d2b3d2d6c21eb4843be3c47ab87b5183e57aea2/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -84,6 +156,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_cfe0641faa3ce04e789cdc6159e3cb318ad200cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -93,12 +174,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/QUYLE/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_09721e73fd70a9fadee5af6c0edde8548ec5493c/classes.dex" />
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_3f7b7ea0aeee97c106cc85a354d6edf15f57ec6f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,21 +192,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_a4793e3c95562f59c184172ee02a7d5525d4085f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_30388d0bde1b073cb913e2b6dd0eb0bbd7a9a0fe/classes.dex" />
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/QUYLE/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_6c4aa6d95e8a324e63b1b7fe4df85a6c634138d8/classes.dex" />
     </item>
 
 </items>
